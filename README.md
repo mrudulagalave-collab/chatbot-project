@@ -1,3 +1,3 @@
 # chatbot-project
-A self learning automotive diagnostic chatbot in C++ with keyword-based response handling, file persistence. and OOP design.
+A C++ based self learning automotive diagnostic chatbot designed for maintenance workshop assistance, capable of identifying common vehicle issues using keyword-based analysis, providing emergency guidance, and dynamically storing new knowledge through file persistence. The system is built using object-oriented programming principles including inheritance and polymorphism.
 Author - Mrudul Agalave
